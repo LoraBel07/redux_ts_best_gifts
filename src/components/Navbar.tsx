@@ -10,8 +10,8 @@ export function Navbar() {
 	<NavbarBs sticky="top" className="bg-light mb-3">
 		<Container>
 			<Nav className="me-auto">
-				<Nav.Link to="/" as={NavLink}> 💝 </Nav.Link>
-				<Nav.Link to="/store" as={NavLink}><h3>Gifts</h3></Nav.Link>
+				<Nav.Link to="/home" as={NavLink}> 💝 </Nav.Link>
+				<Nav.Link to="/" as={NavLink}><h3>Gifts</h3></Nav.Link>
 				<Nav.Link to="/about" as={NavLink}> 🛍️ </Nav.Link>
 			</Nav>
 			{cartQuantity > 0 && (
