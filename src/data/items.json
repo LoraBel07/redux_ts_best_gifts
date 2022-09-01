@@ -13,26 +13,28 @@
 	},
 	{
 		"id": 3,
-		"name": "Berries",
-		"price": 1.05,
-		"imgUrl": "/imgs/berries.jpg"
+		"name": "Diamond",
+		"price": 8999,
+		"imgUrl": "/imgs/diamond.jpg"
+		
 	},
 	{
 		"id": 4,
-		"name": "Car",
-		"price": 45000,
-		"imgUrl": "/imgs/car.jpg"
-	},
-	{
-		"id": 5,
 		"name": "Book",
 		"price": 10.99,
 		"imgUrl": "/imgs/book.jpg"
+		
+	},
+	{
+		"id": 5,
+		"name": "Berries",
+		"price": 4.05,
+		"imgUrl": "/imgs/berries.jpg"
 	},
 	{
 		"id": 6,
-		"name": "Computer",
-		"price": 1199,
+		"name": "Laptop",
+		"price": 1599,
 		"imgUrl": "/imgs/laptop.jpg"
 	}
 ]
